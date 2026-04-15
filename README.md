@@ -1,4 +1,4 @@
-# GEO403 - Landslide Suspectibility Using Bivariate Statistics
+# GEO403 - Landslide Susceptibility Using Bivariate Statistics
 
 **Download all Data (only for students and authorized personell): https://cloud.uni-jena.de/s/zoHmk9c7cLS2t2p**
 
