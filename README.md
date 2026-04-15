@@ -1,0 +1,1 @@
+# GEO403---Landslide-Suspectibility-Using-Bivariate-Statistics
