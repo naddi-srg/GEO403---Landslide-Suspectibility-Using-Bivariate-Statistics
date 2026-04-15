@@ -1,6 +1,6 @@
 # GEO403 - Landslide Susceptibility Using Bivariate Statistics
 
-**Download all Data (only for students and authorized personell): https://cloud.uni-jena.de/s/zoHmk9c7cLS2t2p**
+**Download all Data (only for students and authorized personell): https://cloud.uni-jena.de/s/dWBJJ8J6MT44Wbm**
 
 This project provides a reproducible workflow for landslide susceptibility analysis using Frequency Ratio (FR), the Statistical Index (WI), and a weighted model (WI + WF).
 
